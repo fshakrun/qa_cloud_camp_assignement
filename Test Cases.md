@@ -293,7 +293,7 @@
 ### Используемые инструменты и окружение:
 
 * ОС Windows 10 Home 64x: Браузер Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36, Браузер Opera 99 версии
-* "MacOS, браузер Google Chrome 114.0 версии, браузер Safari 16.1 версии
+* MacOS: браузер Google Chrome 114.0 версии, браузер Safari 16.1 версии
 
 ### Возможные риски
 * Отсутствие документации по работе функционала.
